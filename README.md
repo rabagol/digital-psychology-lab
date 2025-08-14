@@ -18,6 +18,16 @@ Personal research and development space where innovative ideas emerge from prosp
 **Method**: Developing systematic approaches to materialize innovative concepts  
 **Tools**: Leveraging technology to transform abstract ideas into concrete solutions
 
+## 🧬 Research Philosophy
+
+**Methodological Approach**: Holistic integration and exploratory investigation  
+**Core Principle**: Embracing complexity rather than reductionism  
+**Innovation Focus**: Developing new frameworks for studying emerging phenomena  
+
+My research operates from epistemic humility - acknowledging vast unknowns while systematically exploring uncharted territories in human-digital interaction. Rather than applying established paradigms, I generate novel questions and create methodological innovations for understanding complex psychological phenomena.
+
+**[→ Full Research Philosophy & Methodology](methodologies/research-philosophy.md)**
+
 ## 🗂️ Lab Structure
 ```
 digital-psychology-lab/
