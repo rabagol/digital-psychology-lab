@@ -1,85 +1,81 @@
-# digital-psychology-lab
-Personal research workspace exploring cognitive psychology and digital behavioral solutions
 # Digital Psychology Lab 🧠✨
 
-## About This Workspace
-Personal research and development space where innovative ideas emerge from prospective thinking and pattern recognition in cognitive psychology. Focused on understanding how digital environments influence human cognition and behavior, while developing tools for healthier digital interactions.
+**Psychology · Human–AI Interaction · Research · Experimental Design**
 
-## 🔬 Core Research Focus
-- **Digital Environment Influence**: Understanding how digital spaces shape human cognition and behavior
-- **Healthy Digital Tools**: Creating applications that promote psychological well-being
-- **AI Cognitive Revolution**: Exploring how AI amplifies human cognitive capabilities to unprecedented levels
-- **Innovative Methodologies**: Developing new frameworks for digital psychology research
-- **Pattern Recognition**: Identifying emerging trends in human-technology interaction
+A personal research and development workspace by **Sonia Rábago Lorca**, exploring how digital environments shape human cognition, behaviour and experience.
 
-## 🧬 My Approach
-**Thinking Style**: Prospective and observational analysis, intuitive pattern recognition  
-**Foundation**: Deep knowledge of human cognitive processes from psychology  
-**Method**: Developing systematic approaches to materialize innovative concepts  
-**Tools**: Leveraging technology to transform abstract ideas into concrete solutions
+*Established in 2025 · Updated 6 November 2026*
 
-## 🧬 Research Philosophy
+## About the Lab
 
-**Methodological Approach**: Holistic integration and exploratory investigation  
-**Core Principle**: Embracing complexity rather than reductionism  
-**Innovation Focus**: Developing new frameworks for studying emerging phenomena  
+The lab began with prospective thinking, cognitive observation and pattern recognition: a place to develop questions and explore tools for healthier digital interactions. That foundation continues as the work expands towards human–AI interaction, the interpretation of experience and the design of digital services and prototypes.
 
-My research operates from epistemic humility - acknowledging vast unknowns while systematically exploring uncharted territories in human-digital interaction. Rather than applying established paradigms, I generate novel questions and create methodological innovations for understanding complex psychological phenomena.
+The guiding question is how technology can support thinking, learning and agency while preserving psychological well-being and human judgement. Possible benefits remain questions to investigate, rather than assumed outcomes.
 
-**[→ Full Research Philosophy & Methodology](methodologies/research-philosophy.md)**
+**This repository currently contains research-area descriptions and a methodological framework. It does not yet contain application source code, research datasets or released software.** The work linked below is hosted elsewhere; a public presentation or prototype does not imply that its source code is available here.
 
-## 🗂️ Lab Structure
-```
-digital-psychology-lab/
-├── ideation/                 # Concept development and innovative thinking
-├── cognitive-patterns/       # Pattern analysis and observations
-├── prototypes/              # Technology-materialized ideas
-├── research-notes/          # Process documentation and insights
-├── methodologies/           # Framework development
-└── ai-revolution/           # AI impact on cognition studies
-```
+## Research Philosophy
 
-## 🛠️ Current Tech Stack
-**Analysis & Research:**
-- R, Python, SPSS
-- Statistical modeling and behavioral analysis
+The original approach remains central: embrace complexity, work across disciplines, attend to context and maintain epistemic humility. Observation and intuition help generate questions; claims require evidence and explicit limits.
 
-**Development (Learning):**
-- JavaScript, HTML/CSS
-- Exploring frameworks for interactive applications
+The [original research philosophy and methodology](methodologies/research-philosophy.md) describes four phases:
 
-## 🎯 Research Objectives  
-- [ ] Map patterns in digital environment impact on cognition
-- [ ] Develop frameworks for healthy digital interaction design
-- [ ] Create innovative tools that enhance human cognitive capabilities
-- [ ] Establish methodologies for AI-human cognitive enhancement
-- [ ] Build evidence-based solutions for digital well-being
+1. **Observe** phenomena and emerging patterns in their context.
+2. **Generate questions** and explore ways to investigate them.
+3. **Explore experimentally**, refining instruments and prototypes through feedback.
+4. **Integrate and expand**, considering findings, limitations and further questions.
 
-## 🚧 Current Status
-**Phase**: Active ideation and pattern exploration  
-**Focus**: Transforming innovative concepts into technological solutions  
-**Strength**: Prospective thinking and systematic methodology development  
-**Next Steps**: Materializing key insights through prototype development
+The lab's founding aspiration continues to guide this work:
 
-## 💡 Innovation Philosophy
-*"Technology should amplify human cognitive potential while preserving psychological well-being. Through prospective thinking and pattern recognition, we can design digital environments that elevate rather than diminish human capabilities."*
+> Technology should amplify human cognitive potential while preserving psychological well-being. Through prospective thinking and pattern recognition, we can design digital environments that elevate rather than diminish human capabilities.
 
-## 📊 Featured Explorations
-*Innovative projects emerging from cognitive pattern analysis...*
+## Work and Status — November 2026
 
-## 📜 License & Usage
-This work is licensed under MIT License.
+| Work | Current status | Public material |
+| --- | --- | --- |
+| **Conversational agents and depressive symptoms** | Completed master's systematic review and meta-analysis. The portfolio reports a manuscript submitted for publication; this is not a claim of acceptance or publication. | [Research overview](https://soniarabago.com/#research) and [research presentation](https://chatbotsydepresion.netlify.app/). No manuscript, dataset or analysis code is deposited here. |
+| **pensar.IA** | Service concept and web prototype for individual AI tuition, with concept, design and implementation presented in the portfolio. | [Explore the prototype](https://soniarabago.com/#pensar). This is a service and interface prototype, not a released AI application. |
+| **Research Practice / Digital Practice** | Public presentation of an independent practice: commissioned research for organisations and individual guidance with digital tools. Digital Practice extends the individual tuition idea beyond AI. | [practice.soniarabago.com](https://practice.soniarabago.com). A service presentation does not document completed client commissions. |
+| **AI · Human Experience** | Editorial prototype examining questioning, responses, disagreement and revision in human–AI interaction. | [Explore the sketchboard](https://soniarabago.com/#notebook). A reflection on practice, not an empirical study or a clinical tool. |
+| **Doctoral research** | Initial-stage research at UNED, begun in October 2026, concerning subjectivation and the reconstruction of meaning. | [Public introduction](https://soniarabago.com/#thesis). Questions and planned methods, not participant material or findings. |
 
-**For academic/research use**: Please cite appropriately  
-**For commercial applications**: Contact contact@soniarabago.com for collaboration opportunities
+These projects connect evidence review, reflective inquiry and design. Their stages differ: completed research, public prototypes and ongoing investigations should be read on their own terms.
 
-© 2025 Sonia Rábago - Original concepts and methodologies
+## Repository Guide
 
-## 📫 Connect
-- **Email**: contact@soniarabago.com
-- **GitHub**: @rabagol
+The original six areas are retained. Their README files describe intended directions, rather than inventories of implemented features.
 
----
-*"Pioneering the intersection of cognitive psychology and digital innovation through prospective thinking and systematic methodology."*
+| Area | Purpose |
+| --- | --- |
+| [ideation](ideation/) | Concept development and questions in formation |
+| [cognitive-patterns](cognitive-patterns/) | Directions for observing cognition in digital contexts |
+| [prototypes](prototypes/) | Approach to translating concepts into experimental tools |
+| [research-notes](research-notes/) | Proposed structure for observations, hypotheses and reflections |
+| [methodologies](methodologies/) | Research framework and methodological principles |
+| [ai-revolution](ai-revolution/) | Founding questions about AI and human cognitive capabilities |
 
-**Last updated**: 08/13/25
+## Next Steps
+
+- [ ] Select a bounded question or prototype for further development.
+- [ ] Document its purpose, stage, assumptions and evaluation criteria.
+- [ ] Add selected materials when they are ready and appropriate for public release.
+- [ ] Keep observations, hypotheses, design decisions and tested findings distinct.
+
+The original tooling interests—R, Python and SPSS for research, and JavaScript, HTML and CSS for development—remain part of the lab's background. They are not installation requirements or a software stack implemented in this repository.
+
+## Scope and Sharing
+
+This is a research and experimental workspace. Prototypes and exploratory ideas should not be read as validated psychological interventions. Public documentation is selected deliberately; personal records, private writing, participant data and unpublished academic materials are outside this repository's public scope.
+
+## Connect
+
+- [Personal website and selected work](https://soniarabago.com)
+- [Independent research and digital practice](https://practice.soniarabago.com)
+- [GitHub: @rabagol](https://github.com/rabagol)
+- Email: [contact@soniarabago.com](mailto:contact@soniarabago.com)
+
+## License
+
+Repository materials remain under the existing [MIT License](LICENSE). External websites and linked materials retain their own terms. Please acknowledge the source when referencing the lab's work; enquiries about collaboration are welcome.
+
+© 2025–2026 Sonia Rábago Lorca
